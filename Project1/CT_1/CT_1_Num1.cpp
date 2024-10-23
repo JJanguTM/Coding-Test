@@ -28,6 +28,4 @@ int main() {
     int result = fibonacci(T);
     cout << "Fibonacci(" << T << ") = " << result << endl;
     cout << x << ' ' << y << endl;
-
-
 }
